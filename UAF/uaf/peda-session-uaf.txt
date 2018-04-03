@@ -1,0 +1,5 @@
+break *0x4012d2
+break *main+443
+break *main+233
+break *main+276
+
