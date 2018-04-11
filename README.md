@@ -7,7 +7,7 @@
 - DefCon2015_r0pbaby
 - ✅ sniperoj_shellcode-x86-64
 - PlaidCTF2013-ropasaurusrex
-- bamboofox_ret2libc
+- ✅ bamboofox_ret2libc
 
 ## 0x03 Shellcode
 
