@@ -26,6 +26,7 @@
 ## 0x06 Fmt
 
 - NJCTF2017_pingme
+- ✅ UIUCTF2017_goodluck
 
 ## 0x07 Off_By_One
 
