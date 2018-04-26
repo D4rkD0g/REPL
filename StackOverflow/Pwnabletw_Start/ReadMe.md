@@ -51,3 +51,6 @@ p.interactive()
 ![](ReadMe/22F50B10-C5C9-404B-824F-4464DB87A4D8.png)
 
 那么问题来了，对于这种应该怎么符号执行和Fuzzing来做。。。
+
+附：
+![](ReadMe/QQ20180425-201632.png)
